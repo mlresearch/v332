@@ -3,7 +3,7 @@ booktitle: Proceedings of AAAI 2026 Workshop on Bias in Multimodal AI
 shortname: BiasMMAI
 volume: '332'
 year: '2026'
-start: &1 2026-01-25
+start: 2026-01-25
 end: 2026-01-25
 published: 2026-04-09
 conference_number: '1'
@@ -69,7 +69,7 @@ conference:
   url: https://sites.google.com/view/biasinmm-aaai2026
   location: Singapore Expo, Tampines, Singapore
   dates:
-  - *1
+  - 2026-01-25
 analytics:
   google:
     tracking_id: UA-92432422-1
